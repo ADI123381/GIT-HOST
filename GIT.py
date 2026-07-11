@@ -28,7 +28,7 @@ import random
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # --- Configuration ---
-TOKEN = '8770968022:AAEfXwUHKmO1k_83dQiQUCSvToD_bzvzc3c'
+TOKEN = '8564654459:AAGniXAxZYvnMk4OKUDvCb_huwQuPozAshU'
 OWNER_ID = 8360629421
 ADMIN_ID =  8360629421
 YOUR_USERNAME = '@CUREENTTT'
