@@ -38,7 +38,6 @@ REQUIRED_CHANNELS = [
     "@Adityaapis_570"
     "@DEVTAX_OP"
 ]
-
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 UPLOAD_BOTS_DIR = os.path.join(BASE_DIR, 'upload_bots')
 IROTECH_DIR = os.path.join(BASE_DIR, 'inf')
