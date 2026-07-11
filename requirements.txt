@@ -1,4 +1,4 @@
-pyTelegramBotAPI
-requests
-urllib3
-psutil
+pyTelegramBotAPI==4.15.0
+requests==2.31.0
+urllib3==2.1.0
+psutil==5.9.6
