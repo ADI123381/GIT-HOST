@@ -1,4 +1,4 @@
-pyrogram
-tgcrypto
+pyTelegramBotAPI
 requests
-aiohttp
+urllib3
+psutil
